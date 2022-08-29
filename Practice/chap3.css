@@ -1,0 +1,22 @@
+*{
+    margin: 0;padding: 0;
+}
+header{
+    background-color: black;
+    border: 2px solid white;
+    color: white;
+    height: 66px;
+}
+.container {
+    background-color: red;
+    height: 900px;
+    padding: 33px;
+    margin: 34px;
+}
+footer{
+    background-color: purple;
+    margin: 23px;
+}
+.centre{
+    text-align: center;
+}

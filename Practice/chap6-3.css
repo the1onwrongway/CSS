@@ -1,0 +1,43 @@
+*{
+    margin: 0;padding: 0;
+}
+header{
+    display: flex;
+    flex-wrap: row;
+    background-color: black;
+    color: white;
+    height: 5vw;
+    justify-content: center;
+}
+li{
+    display: inline-flex;
+    margin: 5px;
+    padding: 18px  ;
+}
+.container{
+    display: flex;
+    justify-content:space-evenly;
+}
+.box1{
+    background-color: blue;
+    height: 50vh;
+    width: 33vw;
+
+}
+    
+.box3{
+    background-color: green;
+    height: 50vh;
+    width: 33vw;
+ 
+}
+.image{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    background-color: red;
+    height: 50vh;
+    width: 33vw;
+}

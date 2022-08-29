@@ -1,0 +1,20 @@
+.red{
+    background-color: red;
+    color: white;
+}
+#head{
+    background-color:blanchedalmond;
+}
+.one{
+    padding: 10px;
+}
+.two{
+    padding: 500px;
+}
+.three{
+    margin: 400px;
+}
+.four{
+    background-color:purple;
+    color: white;
+}

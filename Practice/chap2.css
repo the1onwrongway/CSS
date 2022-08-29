@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{   
+    width: 350px;
+    height: 1100px;
+    box-sizing: border-box;
+    background: aqua url('/index.jpg') no-repeat fixed top left ;
+    background-size: 341px 341px;
+}
+.nav{
+    background-color:  black;
+    color: aliceblue;
+    width: 350px;
+    height: 400px;
+}
+.text{
+    width: 1000px;
+    background-color: white;
+    color: red;
+}
